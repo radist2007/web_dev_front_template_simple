@@ -1,0 +1,19 @@
+{
+  "name": "web_dev_front_template_simple",
+  "description": "bower assebly for web_dev_from_template_simple",
+  "main": "index.js",
+  "authors": [
+    "radist2007"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/radist2007/web_dev_front_template_simle#readme",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+  }
+}
